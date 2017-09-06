@@ -1,4 +1,5 @@
-# UCSDRoutePlans/-------------------------------------------------------------------------
+# UCSDRoutePlans
+/-------------------------------------------------------------------------
 / Starter Code and GUI Application for Course 3 in the
 / Java Programming: Object Oriented Design of 
 / Data Structures Specialization:
